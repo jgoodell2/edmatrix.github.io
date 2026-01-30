@@ -3,7 +3,7 @@ title: SCD
 stdurl: https://opensource.ieee.org/scd/scd
 stdtype: Tech
 org: IEEE LTSC
-types: "Competency Standard"
+types: "Competency"
 datalayers: "1,2,3"
 uses: "RDF,TTL,JSON-LD"
 context: "Any"
